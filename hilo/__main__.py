@@ -1,6 +1,6 @@
-from game.hilo import Hilo
+from game.director import Director
 
 
 if __name__ == '__main__':
-    game = Hilo()
-    game.run_game()
+    director = Director()
+    director.start_game()
