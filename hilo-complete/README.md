@@ -17,7 +17,7 @@ root                    (project root folder)
 +-- hilo                (source code for game)
   +-- game              (specific classes)
   +-- __main__.py       (program entry point)
-  +-- README.md           (general info)
++-- README.md           (general info)
 ```
 
 ## Authors
